@@ -1,8 +1,11 @@
-data = input()
-search = ['c=', 'c-', 'dz=', 'd-', 'lj', 'nj', 's=', 'z=']
-count = 0
-check = 0
-for s in search:
-    print("hi")
-    if -1 == data.find(s):
-        check = -1
+def grade(a):
+    if 100 >= a >= 90:
+        return 'A'
+    elif 90 > a >= 80:
+        return 'B'
+    elif 80 > a >= 70:
+        return 'C'
+    elif 70 > a >= 60:
+        return 'D'
+    elif 60 > a:
+        return 'F'
