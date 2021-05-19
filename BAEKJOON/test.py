@@ -1,8 +1,4 @@
-data = input()
-search = ['c=', 'c-', 'dz=', 'd-', 'lj', 'nj', 's=', 'z=']
-count = 0
-check = 0
-for s in search:
+data = 1
+
+if 1 < data < 2:
     print("hi")
-    if -1 == data.find(s):
-        check = -1
