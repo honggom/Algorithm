@@ -1,1 +1,3 @@
-print(10 % 5)
+import math
+
+print(int(math.sqrt(3)))
