@@ -23,3 +23,10 @@ for _ in range(int(sys.stdin.readline())):
             del stack[-1]
             print(data)
 
+
+
+
+
+
+
+
