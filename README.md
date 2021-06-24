@@ -1,3 +1,3 @@
-# Problem_Solving
+# Algorithm
     알고리즘 문제 해결을 기록하는 저장소입니다. since 21.05.12
     저장소 삭제 후 다시 복구 21.06.24
